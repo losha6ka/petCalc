@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/petCalc/static/css/main.952584ec.css",
+    "main.js": "/petCalc/static/js/main.e00e36ab.js",
+    "index.html": "/petCalc/index.html",
+    "main.952584ec.css.map": "/petCalc/static/css/main.952584ec.css.map",
+    "main.e00e36ab.js.map": "/petCalc/static/js/main.e00e36ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.952584ec.css",
+    "static/js/main.e00e36ab.js"
+  ]
+}
