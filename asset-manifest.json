@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/petCalc/static/css/main.952584ec.css",
-    "main.js": "/petCalc/static/js/main.e00e36ab.js",
+    "main.css": "/petCalc/static/css/main.58a47eba.css",
+    "main.js": "/petCalc/static/js/main.256e1ea5.js",
     "index.html": "/petCalc/index.html",
-    "main.952584ec.css.map": "/petCalc/static/css/main.952584ec.css.map",
-    "main.e00e36ab.js.map": "/petCalc/static/js/main.e00e36ab.js.map"
+    "main.58a47eba.css.map": "/petCalc/static/css/main.58a47eba.css.map",
+    "main.256e1ea5.js.map": "/petCalc/static/js/main.256e1ea5.js.map"
   },
   "entrypoints": [
-    "static/css/main.952584ec.css",
-    "static/js/main.e00e36ab.js"
+    "static/css/main.58a47eba.css",
+    "static/js/main.256e1ea5.js"
   ]
 }
